@@ -1,4 +1,4 @@
-package com.lks.demo.core.mq.product;
+package com.lks.demo.core.mq.work.product;
 
 import com.lks.demo.core.mq.config.ConnectionUtil;
 import com.rabbitmq.client.Channel;
