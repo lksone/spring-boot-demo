@@ -1,0 +1,14 @@
+
+[squid:S1854#"8Remove this useless assignment to local variable "name".(ú‹Ñøÿÿÿÿ8á°çÅæ-
+Lsquid:S1481#")Remove this unused "name" local variable.(ú‹Ñøÿÿÿÿ8á°çÅæ-
+gsquid:S1854%"DRemove this useless assignment to local variable "originalFilename".(Ùºõùÿÿÿÿ8á°çÅæ-
+Lsquid:S1481!")Remove this unused "size" local variable.(û¾ †ùÿÿÿÿ8á°çÅæ-
+Xsquid:S1481%"5Remove this unused "originalFilename" local variable.(Ùºõùÿÿÿÿ8á°çÅæ-
+bsquid:S1854'"?Remove this useless assignment to local variable "contentType".(ğô¦øıÿÿÿÿ8á°çÅæ-
+Psquid:S1481*"-Remove this unused "resource" local variable.(–õ‚çúÿÿÿÿ8á°çÅæ-
+bsquid:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£Ä8À¡éÅæ-
+_squid:S1854*"<Remove this useless assignment to local variable "resource".(–õ‚çúÿÿÿÿ8á°çÅæ-
+Ssquid:S1481'"0Remove this unused "contentType" local variable.(ğô¦øıÿÿÿÿ8á°çÅæ-
+[squid:S1854!"8Remove this useless assignment to local variable "size".(û¾ †ùÿÿÿÿ8á°çÅæ-
+Ssquid:S1481)"0Remove this unused "inputStream" local variable.(Ñ™Éúÿÿÿÿ8á°çÅæ-
+bsquid:S1854)"?Remove this useless assignment to local variable "inputStream".(Ñ™Éúÿÿÿÿ8á°çÅæ-
