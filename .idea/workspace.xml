@@ -4,8 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73211b01-c2d0-4421-9044-c5ffd42b3f17" name="Default Changelist" comment="fdsa">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="73211b01-c2d0-4421-9044-c5ffd42b3f17" name="Default Changelist" comment="测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -267,7 +266,7 @@
       <workItem from="1574841110438" duration="871000" />
       <workItem from="1574842433588" duration="4000" />
       <workItem from="1579079468991" duration="4464000" />
-      <workItem from="1579141023106" duration="5014000" />
+      <workItem from="1579141023106" duration="6191000" />
     </task>
     <task id="LOCAL-00001" summary="fdsa">
       <created>1579144471994</created>
@@ -276,7 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579144471994</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fdsa">
+      <created>1579155200209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579155200209</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试">
+      <created>1579155234391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579155234391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +308,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fdsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="fdsa" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
