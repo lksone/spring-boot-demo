@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73211b01-c2d0-4421-9044-c5ffd42b3f17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73211b01-c2d0-4421-9044-c5ffd42b3f17" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +264,7 @@
       <workItem from="1574841110438" duration="871000" />
       <workItem from="1574842433588" duration="4000" />
       <workItem from="1579079468991" duration="4464000" />
-      <workItem from="1579141023106" duration="3590000" />
+      <workItem from="1579141023106" duration="4242000" />
     </task>
     <task id="LOCAL-00001" summary="fdsa">
       <created>1579144471994</created>
