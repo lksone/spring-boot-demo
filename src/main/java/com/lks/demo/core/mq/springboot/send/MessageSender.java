@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- *  提供者
+ *  發送
  *
  * @author lks
  * @Time 2020/1/17
@@ -21,10 +21,10 @@ public class MessageSender {
     private RabbitTemplate rabbitTemplate;
 
 
-    public void sendMessage(){
+    public void sendMessage(String messgage){
         String time = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
 
-        this.rabbitTemplate.convertAndSend(Constant.EXCHANGE_NAME_1,time+"lks f阿松呀");
+        this.rabbitTemplate.convertAndSend(Constant.EXCHANGE_NAME_1,messgage);
     }
 
 }
